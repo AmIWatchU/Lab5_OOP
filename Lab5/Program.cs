@@ -7,8 +7,10 @@ using System.Threading.Tasks;
 namespace Lab5
 {
     class Program
-    {
-        static void Main(string[] args)
+	{
+		//4. Дано рядок.Показати номери символів, які збігаються з останнім символом рядка.
+
+		static void Main(string[] args)
         {
 			Console.WriteLine("Write any word:");
 			string sc = Console.ReadLine();
